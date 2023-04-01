@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning and Data Science...
 - 📫 How to reach me rk0981725@gmail.com and rohitmaurya123@yahoo.com
-- My resume: https://drive.google.com/file/d/1QVIXNnbWPGO-0TUjwRvAlT5ky0yCAznV/view?usp=sharing
+- My resume: https://drive.google.com/file/d/1TJvog2yfB2RURjo83nw5Nt5MophIjXEv/view?usp=sharing
 - Blog: https://superohitmaurya.blogspot.com
 - All projects are available at https://github.com/superohit
  ### My Skills:
