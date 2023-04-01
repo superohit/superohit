@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rohit Kumar
-- 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Machine Learning and Data Science...
+- 👀 I’m interested in Software Development or Python Development or Machine Learning and Data Science.
+- 🌱 I’m currently learning Python Development and DSA...
 - 📫 How to reach me rk0981725@gmail.com and rohitmaurya123@yahoo.com
 - My resume: https://drive.google.com/file/d/1TJvog2yfB2RURjo83nw5Nt5MophIjXEv/view?usp=sharing
 - Blog: https://superohitmaurya.blogspot.com
