@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superohit" alt="Rohit Kumar" /></a> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superohit" alt="Rohit Kumar" /></a> </p> -->
 
-- 🌱 I’m currently learning **Django, Machine Learning**
+- 🌱 I’m currently learning **Django, Data Structures and Machine Learning**
 - 💬 Ask me about **Python, Flask, Django**
 - Blog: https://superohitmaurya.blogspot.com
 - All projects are available at https://github.com/superohit
