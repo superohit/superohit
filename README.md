@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **rk0981725@gmail.com**
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1Z01pd_K159Zr7WowhaRC1OzZxycuctq2/view?usp=sharing
-- ⚡ Currently I am trying to improve my problem solving skills by solving different Data structures and Algorithms Question in different Platform like Leetcode and CodeChef etc.
+- 📄 Know about my experiences (Resume): https://drive.google.com/file/d/1Z01pd_K159Zr7WowhaRC1OzZxycuctq2/view?usp=sharing
+- ⚡ Currently I am trying to improve my problem solving skills by solving different Data structures and Algorithms Questions at different Platform like Leetcode and CodeChef etc.
 
 ### My Skills:
  ##### Languages and Tools:
