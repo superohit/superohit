@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h2>Research Intern Council of Scientific & Industrial Research (CSIR, India)</h2>
+<h2 align="center">Research Intern Council of Scientific & Industrial Research (CSIR, India)</h2>
 <h3 align="center">Welocme to my Github Profile</h3>
 <img width=200px; height=200px; style="border-radius:10px; align:center;" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
