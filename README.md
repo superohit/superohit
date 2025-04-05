@@ -15,7 +15,7 @@
 ## 🚀 **About Me**
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 - 💬 Ask me about **Python, Flask, Django, SQL, and Blockchain**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZrFGKrwlt5XbsswrrIfqCvpjxjDgA9Pd/view?usp=sharing)
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1lDH4BEK06pH6B0k-6zE54gFDyjICHxn-/view?usp=sharing)
 - 📫 Reach me at **rk0981725@gmail.com**
 - ⚡ Fun fact: Improving my problem-solving skills on **LeetCode** and **CodeChef**
 
