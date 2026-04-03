@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h2 align="center">🚀 Research Intern at Council of Scientific & Industrial Research (CSIR, India)</h2>
+<h2 align="center">🚀 Young Professional at Directorate General of Foreign Trade (DGFT), working under Export Promotion Mission (EPM) Scheme to achieve 2 trillion dollors exports by 2030.</h2>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
 <p align="center">
