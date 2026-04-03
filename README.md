@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 **About Me**
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Trade Finance, Supply Chain Finance, Machine Learning and Blockchain**
 - 💬 Ask me about **Python, Flask, Django, SQL, and Blockchain**
 - 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/17cZ_agAFgqMEscBTK5Rz-HUkKa4J-VQj/view?usp=drivesdk)
 - 📫 Reach me at **rk0981725@gmail.com**
